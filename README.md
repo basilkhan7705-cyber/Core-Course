@@ -1,5 +1,6 @@
+# Core-Course
 
-# Student Portfolio
+## Student Portfolio
 
 A responsive portfolio website built with Flask, HTML, CSS, JavaScript, and SQLAlchemy.
 
